@@ -2,7 +2,7 @@
 
 Le Yearbook est un réseau social qui présente des particularités dues au fait qu'il est réservé aux personnes étudiant ou ayant étudié, travaillant ou ayant travaillé au CPNV
 
-## Inscription obligatoire
+## Données de base
 
 De manière similaire à l'intranet, tout le monde figure dans le yearbook. 
 
