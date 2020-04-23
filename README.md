@@ -4,7 +4,7 @@ Le Yearbook est un réseau social qui présente des particularités dues au fait
 
 ## Données de base
 
-De manière similaire à l'intranet, tout le monde figure dans le yearbook. 
+De manière similaire à l'intranet, toute personne étudiant ou travaillant au CPNV figure dans le yearbook. 
 
 Les personnes sont conservées dans le Yearbook après qu'elles aient quitté le CPNV.
 
@@ -37,6 +37,16 @@ Chaque classe dispose d'une "page de classe" (PdC), constituée de:
 - Une image représentant la classe. Il ne s'agit pas forcément d'une photo de groupe en rangs d'oignons. Seul un délégué de classe est autorisé à changer cette image.
 - Un journal de classe, dans lequel chaque membre de la classe peut écrire
 
+## Groupes
+
+Il peut y avoir des groupes autres que des classes:
+
+- Profs d'une filière
+- Groupes d'intérêts commun: Mangas, permaculture, parcours, ...
+- Groupes professionnels: personnel administratif, d'entretien, cafétéria, ...
+
+Ces groupes sont gérés exactement comme une classe, avec un maître de groupe et un ou plusieurs délégués
+
 ## Modération
 
 Afin d'éviter les dérapages, les contenus sont soumis à modération
@@ -55,6 +65,7 @@ Outre les fonctions de modérateur décrites ci-dessus, l'administrateur a les r
 
 - Backup/Restore manuels de la base de données
 - Synchronisation intranet manuelle
+- Gérer les groupes non-classe
 
 ## Hébergement
 
